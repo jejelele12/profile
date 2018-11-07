@@ -1,0 +1,81 @@
+body {
+  color: rgb(150, 150, 150);
+  background-color: rgb(259, 259, 259);
+  font-family: Roboto;
+  font-size: 14px;
+}
+
+p {
+  color: rgb(150, 150, 150);
+  font-family: Roboto;
+  font-size: 16px;
+  padding: 10px 10px;
+}
+h1 {
+  color: rgb(130, 130, 130);
+  background-color: rgb(259, 259, 259);
+  font-family: Roboto;
+  font-size: 20px;
+
+}
+h2 {
+  color: rgb(140, 140, 140);
+  font-family: Roboto;
+  font-size: 18px;
+
+}
+h3 {
+  color: rgb(135, 135, 135);
+  font-family: Roboto;
+  font-size: 16px;
+  padding: 10px 10px;
+
+}
+a {
+  text-decoration: none;
+  color: rgb(170, 170, 170);
+  font-family: Roboto;
+  font-size: 14px;
+}
+a:hover {
+  color: rgb(200 ,200 ,200);
+  }
+
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.description {
+  width: 480px;
+  margin: 0 auto;
+  border-radius: 5px;
+  vertical-align: middle;
+  text-align: center;
+  padding: 30px;
+}
+.volcanos{
+  width: 460px;
+  margin: 0;
+  border-radius: 15px;
+  background-color: rgb(200 ,200 ,200);
+  padding: 30px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.img-circle {
+  border-radius: 50%;
+}
+.img-volcano {
+  border-radius: 5%;
+}
+
